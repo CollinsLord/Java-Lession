@@ -1,2 +1,5 @@
 # Java-Lession
-Am new to java, ready to learn everything about java please you can add your contributions.
+Hello
+Am Collins i like Java and i want to learn everything about Java programming language.
+Your contributions are welcome to help me become full time Java programer.
+
