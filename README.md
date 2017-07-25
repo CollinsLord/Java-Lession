@@ -1,1 +1,1 @@
-# prog-java
+# Personal collection of java code
