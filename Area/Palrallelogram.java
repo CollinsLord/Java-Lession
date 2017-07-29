@@ -12,7 +12,7 @@ try{
     height=Integer.parseInt(args[1]);
     Area=base*height;
     System.out.println("The Area of the Parallelogram is :"+ Area);
-
+//Handles ArrayIndex Exception 
 }catch(ArrayIndexOutOfBoundsException e){
     System.err.println("Please you must provide the base and the height of the Parallelogram");
 System.exit(2);
