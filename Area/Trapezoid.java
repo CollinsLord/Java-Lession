@@ -1,6 +1,6 @@
 public class Trapezoid{
  
-    //Calculating the Area of Trapezoid 
+    //Calculating the Area of Trapezoid
     public static void main(String [] args) {
 int  base1, base2, height;
 double Area;
