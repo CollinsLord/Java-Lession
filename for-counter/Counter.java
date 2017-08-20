@@ -1,4 +1,4 @@
-public class counter {
+public class Counter {
 
 public static void main(String[] args) {
      
@@ -6,7 +6,6 @@ public static void main(String[] args) {
      {
          System.out.println(i);
      }
-	
  }
  
 }
