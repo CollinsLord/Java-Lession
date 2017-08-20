@@ -7,7 +7,6 @@ for(int i:num) {
 // Add up the values
 sum = sum + i;
 }
-
 System.out.println("Sum of numbers is "+ sum);
 }
 public static void main(String[] args) {
