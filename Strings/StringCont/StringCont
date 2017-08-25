@@ -1,9 +1,0 @@
-public class StringCont{
-
-	//Concartinating a Sring Demo
-
-   public static void main(String args[]) {
-      String stng = "java ";
-      System.out.println("My" + stng + "tutorials");
-   }
-}
